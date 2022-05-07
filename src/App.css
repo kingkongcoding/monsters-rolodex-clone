@@ -7,7 +7,15 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: linear-gradient(to left,
-      rgba(7, 27, 82, 1) 0%,
-      rgba(0, 128, 128, 1) 100%);
+      rgb(205, 217, 249) 0%,
+      rgb(216, 248, 248) 100%);
   text-align: center;
+}
+
+.app-title {
+  margin-top: 75px;
+  margin-bottom: 50px;
+  font-size: 7rem;
+  color: rgb(23, 133, 152);
+  font-family: 'Bigelow Rules'
 }
