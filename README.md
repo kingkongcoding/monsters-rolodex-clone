@@ -3,7 +3,7 @@ This project is for practising **React Class Component**.
 
 
 # How to start project?
-npm start
+npm start <br />
 npm install
 
 
